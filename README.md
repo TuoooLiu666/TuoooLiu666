@@ -1,6 +1,7 @@
 - 👋 Hi, I’m LT.
 - 👀 I’m interested in biostatistics & data science & environmental health sciences.
-- 🌱 I’m currently learning metabolomics and application of data science in omics.
+- 🌱 I’m studying metabolomics and other omics technique.
+- 😄 I'm self-learning latent modeling.
 - 💞️ I’m looking to collaborate on normalization, machine learning, and data visualization on metabolomics.
 - 📫 Reach me @ tuoooliu@gmail.com
 
