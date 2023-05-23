@@ -2,7 +2,7 @@
 - 👀 I’m interested in biostatistics & data science & environmental health sciences.
 - 🌱 I’m studying metabolomics and other omics technique.
 - 😄 I'm self-learning latent modeling.
-- 💞️ I’m looking to collaborate on normalization, machine learning, and data visualization on metabolomics.
+- 💞️ I’m looking to learn & practise more on normalization, machine learning, and data visualization on omics.
 - 📫 Find my personal website @ https://tuoooliu666.github.io/ or Reach me @ tuoooliu@gmail.com
 
 <!---
