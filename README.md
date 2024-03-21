@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LT.
-- 👀 I’m interested in biostatistics & data science & environmental health sciences.
-- 🌱 I’m studying metabolomics and other omics technique.
+- 👀 I’m interested in biostatistics & data science & health-related research.
+- 🌱 I’m studying & practising metabolomics, proteomics and other omics technique.
 - 😄 I'm self-learning statistical learning.
 - 💞️ I’m looking to learn & practise more on normalization, machine learning, and data visualization on omics.
 
